@@ -20,7 +20,7 @@ El algoritmo consta de los siguientes pasos:
 
 ## Construido con 🛠️
 
-Para la programación de este programa se utilizo:
+Para la programación de este programa se utilizó:
 * [Java](https://www.java.com/es/) - Lenguaje de programación.
 * [Apache Netbeans](https://netbeans.apache.org/) - Entorno de desarrollo.
 
